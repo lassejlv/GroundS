@@ -1,11 +1,11 @@
 # GroundS
-<<<<<<< HEAD
+
 
 ###### A Place To Get Backgrounds For Mobiles
 =======
-######  A Place To Get Backgrounds For Mobiles
 
->>>>>>> aebee5bfe7629259d4fc8281efe9a56b16e5b2fa
+
+
 
 ###### GroundS is a small project I am working on in the past. This is a project that will perhaps be useful. At least for myself, and maybe for others as well.
 
@@ -13,17 +13,12 @@
 
 <p> The project is simple. You enter and you can find backgrounds for your mobile. And later for ipads and Computers.</p>
 
-<<<<<<< HEAD
-### 📌 How to use?
-
 ###### You must, of course, have the code downloaded.
 
 =======
 
 ### 📌 How to use?
 
-###### You must, of course, have the code downloaded.
->>>>>>> aebee5bfe7629259d4fc8281efe9a56b16e5b2fa
 <p>And then you have to type in your terminal <code>npm install</code></p>
 <p> And it should install all the dependencies and DevDependencies that the project uses.
 After that you can type in your terminal <code> npm run dev </code> <br>
