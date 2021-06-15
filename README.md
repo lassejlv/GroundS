@@ -6,9 +6,9 @@
 
 ### ❔What is the project about?
 
-###### The project is simple. You enter and you can find backgrounds for your mobile. And later for ipads and Computers.
+<p> The project is simple. You enter and you can find backgrounds for your mobile. And later for ipads and Computers.</p>
 
 ### 📌 How to use?
 
 ###### You must, of course, have the code downloaded.
-###### And then you have to type in your terminal <strong>npm install</strong>
+<p>And then you have to type in your terminal <code>npm install</code></p>
