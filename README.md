@@ -8,8 +8,6 @@
 
 <p> The project is simple. You enter and you can find backgrounds for your mobile. And later for ipads and Computers.</p>
 
-### 🌐 Website URL
-<code>https://devlassev.github.io/GroundS/<code>
 
 ### 📌 How to use?
 
@@ -20,3 +18,6 @@ After that you can type in your terminal <code> npm run dev </code> <br>
 <br>
 And then you can open a new google tab and go to <code> http://localhost:4200 </code>
 </p>
+
+<h3> 🌐 Website URL </h3>
+<code>https://devlassev.github.io/GroundS/<code>
