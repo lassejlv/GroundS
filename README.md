@@ -15,5 +15,5 @@
 <p> And it should install all the dependencies and DevDependencies that the project uses.
 After that you can type in your terminal <code> npm run dev </code> <br>
 <br>
-And then you can open a new google tab and go to <code> http: //localhost:4200 </code>
+And then you can open a new google tab and go to <code> http://localhost:4200 </code>
 </p>
